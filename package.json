@@ -1,5 +1,5 @@
 {
-  "name": "myhubot",
+  "name": "hubot",
   "version": "0.0.0",
   "private": true,
   "author": "Mark Duffy <markaduffy@gmail.com>",
@@ -16,7 +16,6 @@
     "hubot-heroku-keepalive": "~1.0.2",
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "~2.16.2",
-    "hubot": "~2.18.0",
     "hubot-slack": "~3.4.2"
   },
   "engines": {
